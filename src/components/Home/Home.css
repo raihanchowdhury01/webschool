@@ -1,0 +1,11 @@
+.header_text{
+    background: linear-gradient(90deg, #00dbde, #fc00ff);
+    font-family: Phoppins;
+    font-size: 40px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.box>img{
+    width: 50%;
+    height: 30%;
+}
